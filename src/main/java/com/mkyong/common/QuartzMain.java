@@ -9,7 +9,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  */
 public class QuartzMain {
 
-	// the main method
+	// the main method here
 	public static void main(String[] args) throws Exception {
 		new ClassPathXmlApplicationContext("Spring-Quartz.xml");
 
