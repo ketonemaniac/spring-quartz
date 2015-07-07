@@ -10,6 +10,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class QuartzMain {
 
 	// the main method conflicted in git
+	// the main method here
 	public static void main(String[] args) throws Exception {
 		new ClassPathXmlApplicationContext("Spring-Quartz.xml");
 
